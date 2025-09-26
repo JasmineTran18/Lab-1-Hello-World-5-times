@@ -17,4 +17,3 @@ int main() {
     }
     return 0; // Ends the program
 }
-
